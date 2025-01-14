@@ -1,0 +1,72 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Jersey 15", serif;
+  }
+
+.container-hero {
+    background-color: #0ce9c0;
+    position: relative;
+    padding-top: 25px;
+}
+
+h1 {
+    color: #1a28f3;
+    font-size: 2rem;
+    margin: 50px auto 0 auto;
+  }
+
+  h3 {
+    color: #1a28f3;
+    font-size: 2rem;
+    margin: 50px auto 0 auto;
+  }
+
+  .title{
+    text-decoration: underline;
+  }
+
+  .sun {
+    position: absolute;
+    top: -50px;
+    right: 500px;
+  }
+
+
+  .beach {
+    position: relative;
+    top: 3px;
+    border-radius: 20%;
+  }
+
+
+  .title-container {
+    position: relative;
+  }
+
+  .brief {
+    background-color: rgb(39, 247, 226);
+    position: relative;
+    display: grid;  
+    grid-template-rows: 100px 200px;
+    grid-template-columns: 230px 350px;
+    margin: 20px;
+    top: 0px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+
+  .myphoto {
+    border-radius: 10%;
+  }
+
+  .footer{
+    background-color: aqua;
+  }
+
+
+  
